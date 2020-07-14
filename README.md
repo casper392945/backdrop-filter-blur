@@ -1,2 +1,2 @@
-# backdrop-filter-blur
+# Backdrop Filter Blur Effect
 GitHub Pages
